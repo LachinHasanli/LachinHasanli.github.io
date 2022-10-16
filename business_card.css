@@ -1,0 +1,78 @@
+body {
+  background-color: #293241;
+  font-family: sans-serif;
+  color: beige;
+
+}
+
+.mail,
+.linkedin {
+  height: 40px;
+  width: 25%;
+  margin-left: 4%;
+  margin-right: 4%;
+  border-radius: 10px;
+  color: #293241;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #293241;
+}
+
+a:link {
+  text-decoration: none;
+  color: #293241;
+}
+
+.business_card {
+  margin-left: auto;
+  margin-right: auto;
+  width: 43%;
+  background-color: #3d5a80;
+  border-radius: 10px;
+  border-color: #636161;
+  border-style: groove;
+}
+
+.business_card .header {
+
+  border-radius: 10px;
+}
+
+
+.header img {
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 28%;
+  border-radius: 10px;
+  margin-top: 1%;
+}
+
+.position_at_uni {
+  color:
+    #d94a34;
+}
+
+.up-middle {
+  text-align: center;
+}
+
+.middle {
+  margin-left: 10%;
+  margin-right: 2%;
+}
+
+.footer {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3%;
+  width: 25%;
+}
+
+.fa {
+  color: #293241;
+  margin-left: 10%;
+}
